@@ -76,7 +76,7 @@
 <body>
 
     <div class="logo-container">
-        <img src="../img/vn.png" alt="Logo" class="logo" style="width: 20%;">
+        <img src="../img/nv.png" alt="Logo" class="logo" style="width: 20%;">
     </div>
     <h4 style="color:white;">Form Input Data Siswa</h4>
 
